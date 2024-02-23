@@ -1,8 +1,11 @@
 # Goat, Cabbage and Wolf
 
 A JavaScript implementation of the Goat, Cabbage and Wolf game.
+![Screenshot](./FrontShot.png)
 
-A live version of it is hosted here : 
+# A live version of it is hosted here :  
+https://sonisumit7904.github.io/Bridge_Game_For_Sugarizer/
+
 
 ## Rules
 
